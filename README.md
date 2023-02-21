@@ -1,1 +1,2 @@
-# faq-accordion
+# faq-accordion-with-js
+
