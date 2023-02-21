@@ -47,10 +47,10 @@ const makeFaq = (faqItems, parentElement) => {
 window.addEventListener('DOMContentLoaded', () => {
 
     const faqParentElement = document.getElementById('faq');
-    fetch ('/app.json')
+    fetch('./app.json')
         .then(response => response.json())
         .then(faqItems => {
-            makeFaq(faqItems, faqParentElement);
-            console.log(faqItems);
+            makeFaq(faqItems, faqParentElement)
+            console.log(faqItems) 
         });
 });
