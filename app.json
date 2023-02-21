@@ -1,0 +1,14 @@
+[
+    {
+        "question": "Do you accept Bitcoin?",
+        "answer": "The following crypto currencies are accepted: <ul><li>Bitcoin</li><li>BTC</li><li><strong>No shitcoins</strong></li></ul>"
+    },
+    {
+        "question": "What is the best hardware signing device?",
+        "answer": "Coldcard"
+    },
+    {
+        "question": "How can I buy non-KYC btc?",
+        "answer": "Bisq, peach, hodl-hodl"
+    }
+]
